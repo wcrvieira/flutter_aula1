@@ -27,7 +27,7 @@ class MainApp extends StatelessWidget {
             ),
 	      Text('Estudante BA3039862'),
 	      Text('IFSP - Barretos'),
-	      Text('vieira.wagner@ifsp.edu.br'),
+	      Text('vieira.wagner@aluno.ifsp.edu.br'),
 	    ],
 	  ),
 	),
